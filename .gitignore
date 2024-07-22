@@ -1,0 +1,7 @@
+# dotenv env variable files
+.env
+
+# package managers
+node_modules
+.pnp.*
+.npm
