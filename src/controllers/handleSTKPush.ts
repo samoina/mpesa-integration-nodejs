@@ -44,7 +44,6 @@ const payload = {
     PartyA: phone,
     PartyB: shortCode,
     PhoneNumber: phone,
-    //after ngrok, this part will change - http://localhost:3000 to the forwarding URL https://4ef8-41-90-68-16.ngrok-free.app
     CallBackURL: callbackURL,
     AccountReference: "Samoina Test",
     TransactionDesc: "Payment",
